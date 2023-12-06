@@ -1,10 +1,4 @@
 ### hey there 
-<a href="https://discord.gg/Mtgs_#9963">
-  <img align="left" alt="MaxenceGlt Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/maxence-girault-16991a175/">
-  <img align="left" alt="MaxenceGlt LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
